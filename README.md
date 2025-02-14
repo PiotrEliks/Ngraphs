@@ -1,0 +1,1 @@
+The aim of the project was to implement an algorithm that connects vertices randomly distributed on a square grid with edges and clusters them, where each vertex and edge within a given cluster is colored in a different color. The project was implemented using the Java programming language and the Swing graphics library.
